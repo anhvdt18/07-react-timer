@@ -42,7 +42,7 @@ p {
 .container {
   margin: auto;
   max-width: 1048px;
-  height: 100vh;
+  height: 50vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
